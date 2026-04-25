@@ -4,31 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ab3fb04-048c-4d41-bd81-b7ed586f425a" name="Changes" comment="" />
+    <list default="true" id="5ab3fb04-048c-4d41-bd81-b7ed586f425a" name="Changes" comment="为项目奠定基础">
+      <change afterPath="$PROJECT_DIR$/Sirius_backend/src/main/java/com/sirius/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sirius_backend/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sirius_backend/src/test/java/com/sirius/AppTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "1370339152-cpu"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;1370339152-cpu&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/1370339152-cpu/Sirius_Prpject.git",
-    "accountId": "f07a6a0d-0c15-4772-b219-6680ab62a094"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/1370339152-cpu/Sirius_Prpject.git&quot;,
+    &quot;accountId&quot;: &quot;f07a6a0d-0c15-4772-b219-6680ab62a094&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4,
-  "fromUser": false
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3CqKkVktveTfv3QpqSwBe4Uu5g5" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "JUnit.All in Sirius_Backend.executor": "Debug",
+    "Maven.Sirius_backend [clean].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -48,6 +60,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "E:/Project/My_Project/Sirius_Prpject/Sirius_backend/src/main/java/com/sirius/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -81,10 +94,24 @@
       <option name="presentableId" value="Default" />
       <updated>1777107802702</updated>
       <workItem from="1777107803989" duration="355000" />
+      <workItem from="1777108170400" duration="823000" />
     </task>
+    <task id="LOCAL-00001" summary="为项目奠定基础">
+      <option name="closed" value="true" />
+      <created>1777108478950</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1777108478950</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="为项目奠定基础" />
+    <option name="LAST_COMMIT_MESSAGE" value="为项目奠定基础" />
   </component>
 </project>
